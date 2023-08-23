@@ -1,12 +1,9 @@
 import React from "react";
 import "./Skills.scss";
-import html from "../../../images/icons/html.png";
-import css from "../../../images/icons/css.png";
 import sass from "../../../images/icons/sass.png";
 import js from "../../../images/icons/js.png";
 import react from "../../../images/icons/react.png";
 import bootstrap from "../../../images/icons/bootstrap.png";
-import wp from "../../../images/icons/wp.png";
 import redux from "../../../images/icons/redux.png";
 import node from "../../../images/icons/nodejs.png";
 import express from "../../../images/icons/expressjs.png";
@@ -22,16 +19,12 @@ import github from "../../../images/icons/github.png";
 import vs from "../../../images/icons/vs-code.png";
 import npm from "../../../images/icons/npm.png";
 import cdt from "../../../images/icons/cdt.png";
-import jquery from "../../../images/icons/jquery.png";
-import codeigniter from "../../../images/icons/codeigniter.png";
 import filezilla from "../../../images/icons/filezilla.png";
 import xampp from "../../../images/icons/xampp.png";
 import wampp from "../../../images/icons/wampp.png";
 import Illustrator from "../../../images/icons/Illustrator.png";
 import photoshop from "../../../images/icons/photoshop.png";
-import premiere from "../../../images/icons/premiere.png";
 import getsbyjs from "../../../images/icons/getsbyjs.png";
-import laravel from "../../../images/icons/laravel.svg";
 import graphQl from "../../../images/icons/graphQl.svg";
 
 const Skills = () => {

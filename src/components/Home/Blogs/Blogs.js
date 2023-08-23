@@ -1,20 +1,20 @@
-import React from 'react';
-import './Blogs.css';
-import blog1 from '../../../images/blogs/blog1.jpg';
-import blog2 from '../../../images/blogs/blog2.png';
+import React from "react";
+import "./Blogs.css";
 
 const Blogs = () => {
-    return (
-        <div className="Blogs">
-            <div className="container py-5">
-                <div className="header text-center">
-                    <h2>MY <span>BLOG</span></h2>
-                    <div className="wrapper">
-                        <div className="divider div-transparent div-dot"></div>
-                    </div>
-                </div>
-                <div className="row">
-                    {/* <div className="col-lg-4 col-md-6">
+  return (
+    <div className="Blogs">
+      <div className="container py-5">
+        <div className="header text-center">
+          <h2>
+            MY <span>BLOG</span>
+          </h2>
+          <div className="wrapper">
+            <div className="divider div-transparent div-dot"></div>
+          </div>
+        </div>
+        <div className="row">
+          {/* <div className="col-lg-4 col-md-6">
                         <div className="card mt-4">
                             <img className="card-img-top" src={blog2} alt=""/>
                             <div className="card-body">
@@ -24,11 +24,11 @@ const Blogs = () => {
                             </div>
                         </div>
                     </div> */}
-                    <h4>up comeing</h4>
-                </div>
-            </div>
+          <h4>up comeing</h4>
         </div>
-    );
+      </div>
+    </div>
+  );
 };
 
 export default Blogs;
