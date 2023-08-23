@@ -202,7 +202,7 @@ const Projects = () => {
               </div>
             </div>
           </div>
-          <div className="col-lg-4 col-md-6">
+          {/* <div className="col-lg-4 col-md-6">
             <div className="card mt-4">
               <div className="image-box">
                 <img
@@ -245,7 +245,7 @@ const Projects = () => {
                 </div>
               </div>
             </div>
-          </div>
+          </div> */}
 
           <div className="col-lg-4 col-md-6">
             <div className="card mt-4">
