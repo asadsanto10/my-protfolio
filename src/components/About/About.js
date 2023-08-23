@@ -39,40 +39,38 @@ const About = () => {
             <div className="skills">
               <h4 className="mb-3">Expertise</h4>
               <p>
-                React <span>&#9679;</span> React Router <span>&#9679;</span>{" "}
-                JavaScript <span>&#9679;</span> ES6 <span>&#9679;</span> MongoDB{" "}
-                <span>&#9679;</span> Material Ui <span>&#9679;</span> SCSS{" "}
-                <span>&#9679;</span> Bootstrap <span>&#9679;</span> SCSS{" "}
-                <span>&#9679;</span> CSS <span>&#9679;</span> HTML
+                React.JS <span>&#9679;</span> Redux.Js <span>&#9679;</span>{" "}
+                Node.Js <span>&#9679;</span> Mongodb <span>&#9679;</span>{" "}
+                MongoDB <span>&#9679;</span> Postgressql <span>&#9679;</span>{" "}
+                MySQL <span>&#9679;</span> Tailwind CSS{" "}
               </p>
 
               <h4 className="mt-4 mb-3">COMFORTABLE</h4>
               <p>
-                Node.js <span>&#9679;</span> Express.js <span>&#9679;</span>{" "}
-                Netlify <span>&#9679;</span> PHP <span>&#9679;</span> Firebase{" "}
-                <span>&#9679;</span> Heroku <span>&#9679;</span> WordPress{" "}
-                <span>&#9679;</span> jQuery
+                JavaScript <span>&#9679;</span> TypeScript <span>&#9679;</span>{" "}
+                ES6 <span>&#9679;</span> Express.js <span>&#9679;</span> Koa.js{" "}
+                <span>&#9679;</span> Firebase <span>&#9679;</span> Rest API{" "}
+                <span>&#9679;</span> Material UI
               </p>
 
               <h4 className="mt-4 mb-3">FAMILIAR</h4>
               <p>
-                Redux <span>&#9679;</span> Laravel <span>&#9679;</span>
-                codeigniter <span>&#9679;</span> graphQl <span>&#9679;</span>{" "}
-                getsbyjs
+                AWS <span>&#9679;</span> GraphQL <span>&#9679;</span> Getsby.js
               </p>
 
               <h4 className="mt-4 mb-3">Tools</h4>
               <p>
-                Git <span>&#9679;</span> GitHub <span>&#9679;</span> Visual
-                Studio Code <span>&#9679;</span> Atom <span>&#9679;</span> npm{" "}
-                <span>&#9679;</span> Chrome Dev Tools <span>&#9679;</span> xampp{" "}
-                <span>&#9679;</span>wampp <span>&#9679;</span>filezilla
+                Postman <span>&#9679;</span> Git <span>&#9679;</span> GitHub{" "}
+                <span>&#9679;</span> Visual Studio Code <span>&#9679;</span>{" "}
+                Docker <span>&#9679;</span> npm <span>&#9679;</span> Chrome Dev
+                Tools <span>&#9679;</span> xampp <span>&#9679;</span>Wampp{" "}
+                <span>&#9679;</span>Filezilla
               </p>
 
               <h4 className="mt-4 mb-3">Design Tools</h4>
               <p>
-                Adoebe Photoshop <span>&#9679;</span> Adoebe Illustrator{" "}
-                <span>&#9679;</span> Adobe premiere pro
+                Figma <span>&#9679;</span> Adoebe Photoshop <span>&#9679;</span>{" "}
+                Adoebe Illustrator
               </p>
             </div>
           </div>

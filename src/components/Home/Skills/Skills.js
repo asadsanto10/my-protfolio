@@ -11,7 +11,7 @@ import mongo from "../../../images/icons/mongodb.png";
 import material from "../../../images/icons/meta-ui.png";
 import es6 from "../../../images/icons/es6.png";
 import heroku from "../../../images/icons/heroku.png";
-import netlify from "../../../images/icons/netlify.png";
+// import netlify from "../../../images/icons/netlify.png";
 import firebase from "../../../images/icons/firebase.png";
 import php from "../../../images/icons/php.png";
 import git from "../../../images/icons/git.png";
@@ -269,7 +269,7 @@ const Skills = () => {
               />
               <figcaption style={{ marginTop: "4px" }}>getsbyjs</figcaption>
             </div>
-            <div>
+            {/* <div>
               <img
                 className="mx-4 my-3"
                 style={{ width: "48px" }}
@@ -277,12 +277,21 @@ const Skills = () => {
                 alt=""
               />
               <figcaption style={{ marginTop: "12px" }}>Netlify</figcaption>
-            </div>
+            </div> */}
           </div>
         </div>
         <div className="tools mt-5">
           <h3>Tools</h3>
           <div className="row d-flex justify-content-center align-items-center">
+            <div>
+              <img
+                className="mx-4 my-3"
+                style={{ width: "65px" }}
+                src="https://seeklogo.com/images/D/docker-logo-CF97D0124B-seeklogo.com.png"
+                alt=""
+              />
+              <figcaption style={{ marginTop: "4px" }}>Docker</figcaption>
+            </div>
             <div>
               <img
                 className="mx-4 my-3"
